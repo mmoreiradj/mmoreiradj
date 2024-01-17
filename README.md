@@ -32,14 +32,13 @@ Hello! 👋 I am a passionate DevOps engineering student with a 1 year backgroun
 
 ## :hammer: Projects
 
-### PaaS Kubernetes Controller Project | Open Source Contributor | [Link](https://github.com/paastech-cloud)
+### Ephemeral Environment Demo | Author | [Link](https://github.com/mmoreiradj/pilot-image-board) | [Website](https://pilot.do.moreiradj.net)
 
-(June 2023 - Present)
-
-- Design and development of a cutting-edge, open-source PaaS Kubernetes controller alongside talented fellow students.
-- Showcasing a strong focus on security, safeguarding user data and system integrity.
-- Championing multi-tenancy, ensuring optimal resource utilization and scalability.
-- Harnessing my knowledge in GoLang, Rust, and Kubernetes to create scalable, secure, and collaborative solutions.
+- Engineered **ephemeral environments** following a **pull request’s lifecycle** for **QA**
+- Implemented **code quality checks** with **Prettier**, **ESLint**, and **SonarQube**
+- Utilized **Terraform** for infrastructure management
+- Automated deployment workflows with **GitHub Actions**
+- Orchestrated containers with **Kubernetes** and **ArgoCD** following **GitOps practices**
 
 ### Seasonal Worker Recruitment App | Co-Developer | [Link](https://github.com/season-link)
 
@@ -53,13 +52,18 @@ Hello! 👋 I am a passionate DevOps engineering student with a 1 year backgroun
 - Implementing Continuous Integration and Continuous Deployment (CI/CD) pipelines for automated testing and deployment.
 - Orchestrating Kubernetes deployment for scalable and reliable containerized applications.
 
+### Other Projects
+
+- [Polynotes (Notion Clone)](https://github.com/mmoreiradj/polynotes) hosted [here](https://polynotes.do.moreiradj.net)
+- [Pokedex](https://github.com/mmoreiradj/pokedex) hosted [here](https://mmoreiradj.github.io/pokedex)
+
 These projects showcase my hands-on experience with diverse technologies, emphasizing my ability to collaborate in a team environment and deliver innovative solutions. I am passionate about pushing the boundaries of technology and actively seek opportunities to contribute to impactful projects.
 
 ## :crystal_ball: Future Goals
 
 Passionate about mastering Kubernetes, distributed web applications, and large cloud infrastructures. Eager to explore innovative technologies and contribute significantly to the evolving tech landscape.
 
-:books: Education:
+## :books: Education:
 
 Currently pursuing a degree in DevOps Engineering with a focus on cloud infrastructure management, software development, and virtualization technologies.
 
